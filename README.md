@@ -11,4 +11,5 @@
 3. 将文件clone到该文件夹
 4. 运行startconky.sh文件  ./startconky.sh
 5. 设置开机启动ubuntu18.04可用启动应用首选项这个软件输入脚本位置即可
+6. 不喜欢某些功能编辑startconky.sh,将不想显示的配置文件注释掉
 
