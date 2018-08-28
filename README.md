@@ -1,7 +1,7 @@
 # conky
 效果如图
 ![Image text](https://github.com/LelandYao/conky/blob/master/printscreen.png)
-屏幕分辨率较小：1366x768
+屏幕分辨率：1366x768也适用较大分辨率屏幕
 如果觉得conky配置不合适可调整radiu半径等数值
 
 操作方法
@@ -10,5 +10,5 @@
 2. 在当前家目录创建.Conky文件夹
 3. 将文件clone到该文件夹
 4. 运行startconky.sh文件  ./startconky.sh
-
+5. 设置开机启动ubuntu18.04可用启动应用首选项这个软件输入脚本位置即可
 
