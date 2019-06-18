@@ -1,6 +1,6 @@
 # conky
 效果如图
-![Image text](https://github.com/LelandYao/conky/blob/master/printscreen.png)
+![Image text](https://github.com/webengineerzmh/conky/blob/master/preview.png)
 屏幕分辨率：1366x768也适用较大分辨率屏幕
 如果觉得conky配置不合适可调整radiu半径等数值
 
