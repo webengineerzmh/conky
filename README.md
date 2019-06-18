@@ -1,12 +1,12 @@
-# conky
+# Archlinux for conky美化
 效果如图
 ![Image text](https://github.com/webengineerzmh/conky/blob/master/preview.png)
 屏幕分辨率：1366x768也适用较大分辨率屏幕
-如果觉得conky配置不合适可调整radiu半径等数值
+如是是conky配置不合适可调整radiu半径等数值
 
 操作方法
-1. 在linux安装conky和conky-lua 
-  sudo apt-get install conky-all (ubuntu以及基于debain的这样安装，其他的请自行百度)
+1. 在linux系统安装conky和conky-lua，两个软件包 
+  yaourt -S conky-all (基于Archlinux)
 2. 在当前家目录创建.Conky文件夹
 3. 将文件clone到该文件夹
 4. 运行startconky.sh文件  ./startconky.sh
